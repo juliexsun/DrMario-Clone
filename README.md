@@ -1,6 +1,6 @@
 # Dr. Mario
 
-An implementation of the classic puzzle game **Dr. Mario**, written entirely in **MIPS Assembly Language**. This project was developed as the Final Project for **CSC258: Computer Organization** at the University of Toronto.
+An implementation of the classic puzzle game **Dr. Mario**, written entirely in **MIPS Assembly Language**.
 
 ## Authors
 * **Zhu Xin Sun (Julie)**
