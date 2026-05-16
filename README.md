@@ -85,6 +85,5 @@ When a capsule lands, the game halts user inputs to execute the `cascade` functi
 2. Load the source code file: `drmario.asm`.
 3. Open the **Bitmap Display** tool (`Tools -> Bitmap Display`) and apply the settings detailed in the [Configuration](#1-bitmap-display-configuration) section, then click **Connect to MIPS**.
 4. Open the **Keyboard and Display MMIO Simulator** tool (`Tools -> Keyboard and Display MMIO Simulator`) and click **Connect to MIPS**.
-5. Assemble the file (`F3` or `Run -> Assemble`).
-6. Execute the software (`F5` or `Run -> Go`).
-7. Click inside the **Keyboard Simulator text entry area** to input choices and control your capsule segments.
+5. Execute the software (`F5` or `Run -> Go`).
+6. Click inside the **Keyboard Simulator text entry area** to input choices and control your capsule segments.
